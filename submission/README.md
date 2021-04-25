@@ -5,8 +5,8 @@ We are the students of the Lomonosov Moscow State University, Faculty of Bioengi
 
 Our team's objective was to create a model to predict protein solubility.
 
-A picture below represents the major steps of our solution.
-![solution](https://user-images.githubusercontent.com/38766545/115983806-2fcf3a00-a5ac-11eb-8189-e5668ba0ba4b.png)
+#A picture below represents the major steps of our solution.
+#![solution](https://user-images.githubusercontent.com/38766545/115983806-2fcf3a00-a5ac-11eb-8189-e5668ba0ba4b.png)
 
 First, we have performed the preprocessing of PDB files: removing HETATOM, re-numerating residue ids, calculating DSSP and SASA, and finding the amino acids that are exposed to the surface.
 
